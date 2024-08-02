@@ -15,12 +15,12 @@ THIS is a ✨ _special_ ✨ repository because its README.md (this file) appears
 
 
 <h2 align="center">
-    ─「 𝐉𝐈𝐘𝐀 𝐌𝐔𝐒𝐈𝐂 」─
+    ─「 ᴀɴɢᴇʟᴀ ᴹᵘᶳᶤᶜ 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 <h2 align="center">
-    ─「 𝐉𝐈𝐘𝐀 ダ 𝐌𝐔𝐒𝐈𝐂 」─
+    ─「 ᴀɴɢᴇʟᴀ ダ  ᴹᵘᶳᶤᶜ 」─
 </h2>
 
 <p align="center">
@@ -49,7 +49,7 @@ THIS is a ✨ _special_ ✨ repository because its README.md (this file) appears
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://t.me/cof_music_support)
+- Get your [Necessary Variables](https://t.me/team_network_jjk)
 - Upgrade and Update by :
 sudo apt-get update && sudo apt-get upgrade -y
 - Install Ffmpeg by :
@@ -61,7 +61,7 @@ sudo pip3 install -U pip
 - Install Node js by :
 curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 - Clone the repository by :
-git clone https://github.com/Nayan0904/DNS-MUSIC && cd DNS-MUSIC
+git clone https://github.com/Bhola116/VIP-MUSIC && cd DNS-MUSIC
 - Install requirements by :
 pip3 install -U -r requirements.txt
 - Fill your variables in the env by :
@@ -89,4 +89,4 @@ bash start
 <a href="https://t.me/cof_music_support"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ALONE]() ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/cof_music_support)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ALONE]() ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/team_network_jjk)_ </b>
